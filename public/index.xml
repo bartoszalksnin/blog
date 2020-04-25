@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bartosz.tech blog</title>
+    <link>https://bartosz.tech/</link>
+    <description>Recent content on bartosz.tech blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; &lt;a href=&#34;https://github.com/bartoszalksnin&#34;&gt;Bartosz Alksnin&lt;/a&gt; 2020</copyright>
+    <lastBuildDate>Sat, 25 Apr 2020 18:37:21 +0100</lastBuildDate>
+    
+	<atom:link href="https://bartosz.tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coming soon</title>
+      <link>https://bartosz.tech/posts/welcome/</link>
+      <pubDate>Sat, 25 Apr 2020 18:37:21 +0100</pubDate>
+      
+      <guid>https://bartosz.tech/posts/welcome/</guid>
+      <description>Watch this space</description>
+    </item>
+    
+  </channel>
+</rss>

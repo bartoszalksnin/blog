@@ -1,0 +1,37 @@
+theme = "Kiss"
+baseURL = "https://bartosz.tech"
+title = "bartosz.tech blog"
+language = "en-Gb"
+enableRobotsTXT = true
+copyright = "&copy; <a href=\"https://github.com/bartoszalksnin\">Bartosz Alksnin</a> 2020"
+
+[params.rss] # Adding this tag enables RSS feed
+includeContent = true
+authorName = "Bartosz Alksnin"
+authorEmail = "bartosz.alksnin@gmail.com" 
+
+[params.info]
+enableSocial = true # Adds OpenGraph and Twitter cards
+homeTitle = "Test title" # Title for home page
+related = true # Includes related articles at the bottom of the article
+codeCopy = true # Add copy button above code blocks
+taxonomiesCount = true # Add taxonomies count
+
+[params.opengraph.twitter]
+page = "bartosztech" # Twitter Page username. If not set, params.social.twitter will be used.
+
+[params.social]
+twitter = "bartosztech"
+github = "bartoszalksnin"
+email = "bartosz.alksnin@gmail.com"
+linkedin = "bartosz-alksnin-0482a918"
+rss = "index.xml" # Add this to show RSS button in social.
+
+[params.social.config]
+platforms = ["github","twitter","email","linkedin"]
+
+[taxonomies]
+tag ="tags"
+
+
+
