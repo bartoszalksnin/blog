@@ -12,7 +12,7 @@ authorEmail = "bartosz.alksnin@gmail.com"
 
 [params.info]
 enableSocial = true # Adds OpenGraph and Twitter cards
-homeTitle = "Test title" # Title for home page
+homeTitle = "bartosz tech blog" # Title for home page
 related = true # Includes related articles at the bottom of the article
 codeCopy = true # Add copy button above code blocks
 taxonomiesCount = true # Add taxonomies count
